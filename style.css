@@ -1,10 +1,10 @@
 .words {
-  font-family:"Georgia";
-  color:rosybrown;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rosybrown;
   text-align: center;
-  background-color: peachpuff
+  background-color: peachpuff;
 }
 .happy {
-  font-family:"Papyrus";
-  color:lightcoral;
+  font-family: 'Courier New', Courier, monospace;
+  color: lightcoral;
   }
